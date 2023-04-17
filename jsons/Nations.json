@@ -1,0 +1,15 @@
+[
+	//Barbarian
+	{
+		"name": "Barbarians",
+		"outerColor": [0,0,0],
+		"innerColor": [182,12,12],
+		"style": "Barbarians",
+		"uniques": ["[-25]% Strength <vs cities> <before discovering [Steam Power]>", 
+			    "[+1] Sight <for [Scout] units>", 
+			    "[+25]% Strength <for [All] units>", 
+			    "[+1] Movement <for [Scout] units>", 
+			    "[{Land} {Melee}] units gain the [Raider] promotion", 
+			    "[+10]% Strength <within [2] tiles of a [Barbarian encampment]>"]
+	}
+]
