@@ -9,7 +9,8 @@
 			    "[+1] Sight <for [Scout] units>", 
 			    "[+25]% Strength <for [All] units>", 
 			    "[+1] Movement <for [Scout] units>", 
-			    "[{Land} {Melee}] units gain the [Raider] promotion", 
+			    "[{Land} {Melee}] units gain the [Raider] promotion",
+                            "No movement cost to pillage <for [Melee] units>",
 			    "[+10]% Strength <within [2] tiles of a [Barbarian encampment]>"]
 	}
 ]
